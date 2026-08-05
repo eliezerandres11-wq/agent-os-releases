@@ -1,5 +1,5 @@
 {
-  "version": "1.3",
-  "url": "https://github.com/eliezerandres11-wq/agent-os-releases/releases/download/v1.3/Agent.OS.1.3.dmg",
-  "notes": "Agent profiles, and edit the agent's memory in Settings"
+  "version": "1.4",
+  "url": "https://github.com/eliezerandres11-wq/agent-os-releases/releases/download/v1.4/Agent.OS.1.4.dmg",
+  "notes": "Remembers full answers, easier screen-reader navigation, and a copy button"
 }
