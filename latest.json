@@ -1,5 +1,5 @@
 {
-  "version": "1.9",
-  "url": "https://github.com/eliezerandres11-wq/agent-os-releases/releases/download/v1.9/Agent.OS.1.9.dmg",
-  "notes": "Clearer, more reliable calendar events"
+  "version": "2.1",
+  "url": "https://github.com/eliezerandres11-wq/agent-os-releases/releases/download/v2.1/Agent.OS.2.1.dmg",
+  "notes": "Adds a Doctor health check, a local-plus-cloud model fallback, and a completion sound."
 }
