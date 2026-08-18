@@ -1,5 +1,5 @@
 {
-  "version": "2.1",
-  "url": "https://github.com/eliezerandres11-wq/agent-os-releases/releases/download/v2.1/Agent.OS.2.1.dmg",
-  "notes": "Adds a Doctor health check, a local-plus-cloud model fallback, and a completion sound."
+  "version": "2.2",
+  "url": "https://github.com/eliezerandres11-wq/agent-os-releases/releases/download/v2.2/Agent.OS.2.2.dmg",
+  "notes": "The agent can write and edit code for you"
 }
