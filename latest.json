@@ -1,5 +1,5 @@
 {
-  "version": "2.8",
-  "url": "https://github.com/eliezerandres11-wq/agent-os-releases/releases/download/v2.8/Agent.OS.2.8.dmg",
-  "notes": "Agent OS 2.8: read pages that only appear after their scripts run."
+  "version": "2.9",
+  "url": "https://github.com/eliezerandres11-wq/agent-os-releases/releases/download/v2.9/Agent.OS.2.9.dmg",
+  "notes": "Agent OS 2.9: the browser fallback now catches more pages."
 }
