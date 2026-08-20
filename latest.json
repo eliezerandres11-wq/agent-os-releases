@@ -1,5 +1,5 @@
 {
-  "version": "2.9",
-  "url": "https://github.com/eliezerandres11-wq/agent-os-releases/releases/download/v2.9/Agent.OS.2.9.dmg",
-  "notes": "Agent OS 2.9: the browser fallback now catches more pages."
+  "version": "2.10",
+  "url": "https://github.com/eliezerandres11-wq/agent-os-releases/releases/download/v2.10/Agent.OS.2.10.dmg",
+  "notes": "Agent OS 2.10: no leftover browser helpers after you quit."
 }
