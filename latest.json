@@ -1,5 +1,5 @@
 {
-  "version": "2.14",
-  "url": "https://github.com/eliezerandres11-wq/agent-os-releases/releases/download/v2.14/Agent.OS.2.14.dmg",
-  "notes": "Tailscale remote access now accepts more than one name."
+  "version": "2.15",
+  "url": "https://github.com/eliezerandres11-wq/agent-os-releases/releases/download/v2.15/Agent.OS.2.15.dmg",
+  "notes": "A security lock for when you step away."
 }
