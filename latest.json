@@ -1,5 +1,5 @@
 {
-  "version": "2.19",
-  "url": "https://github.com/eliezerandres11-wq/agent-os-releases/releases/download/v2.19/Agent.OS.2.19.dmg",
-  "notes": "First-run setup can now set a security lock, and its tour is up to date."
+  "version": "2.20",
+  "url": "https://github.com/eliezerandres11-wq/agent-os-releases/releases/download/v2.20/Agent.OS.2.20.dmg",
+  "notes": "First-run setup can now turn on remote access, and mentions iMessage."
 }
