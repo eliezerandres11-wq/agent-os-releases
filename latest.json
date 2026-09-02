@@ -1,5 +1,5 @@
 {
-  "version": "2026.1",
-  "url": "https://github.com/eliezerandres11-wq/agent-os-releases/releases/download/v2026.1/Agent.OS.2026.1.dmg",
-  "notes": "Agent OS 2026.1 adds passcode-protected remote access, automatic database backups, image and Photos tools, and keeps the Mac awake while a task runs."
+  "version": "2026.2",
+  "url": "https://github.com/eliezerandres11-wq/agent-os-releases/releases/download/v2026.2/Agent.OS.2026.2.dmg",
+  "notes": "Agent OS 2026.2 is a repair release: a Settings switch that did nothing now works, your databases and backups are readable only by you, the setup wizard works from another device, and the help page tells the truth again."
 }
