@@ -1,5 +1,5 @@
 {
-  "version": "2026.3",
-  "url": "https://github.com/eliezerandres11-wq/agent-os-releases/releases/download/v2026.3/Agent.OS.2026.3.dmg",
-  "notes": "Agent OS 2026.3 is a small maintenance release: a mistyped mail address is now refused when you save it instead of failing quietly later, and everything else is internal tidying you will not notice."
+  "version": "2026.4",
+  "url": "https://github.com/eliezerandres11-wq/agent-os-releases/releases/download/v2026.4/Agent.OS.2026.4.dmg",
+  "notes": "Agent OS 2026.4 adds Notes: pages you write yourself, that the agent looks up on its own when they are relevant."
 }
