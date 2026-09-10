@@ -1,5 +1,5 @@
 {
-  "version": "2026.8",
-  "url": "https://github.com/eliezerandres11-wq/agent-os-releases/releases/download/v2026.8/Agent.OS.2026.8.dmg",
-  "notes": "Setup wizard: escape a stuck macOS-access step"
+  "version": "2026.9",
+  "url": "https://github.com/eliezerandres11-wq/agent-os-releases/releases/download/v2026.9/Agent.OS.2026.9.dmg",
+  "notes": "Setup wizard: give the macOS-access confirmation time to be read"
 }
