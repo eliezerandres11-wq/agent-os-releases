@@ -1,5 +1,5 @@
 {
-  "version": "2026.6",
-  "url": "https://github.com/eliezerandres11-wq/agent-os-releases/releases/download/v2026.6/Agent.OS.2026.6.dmg",
-  "notes": "Release 2026.6: Facebook read and saved-task editing"
+  "version": "2026.7",
+  "url": "https://github.com/eliezerandres11-wq/agent-os-releases/releases/download/v2026.7/Agent.OS.2026.7.dmg",
+  "notes": "Fix fresh-install crash: agent service failed to start on new Macs"
 }
