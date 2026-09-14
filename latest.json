@@ -1,5 +1,5 @@
 {
-  "version": "2026.10",
-  "url": "https://github.com/eliezerandres11-wq/agent-os-releases/releases/download/v2026.10/Agent.OS.2026.10.dmg",
-  "notes": "Route browser and screen tasks to their own model"
+  "version": "2026.11",
+  "url": "https://github.com/eliezerandres11-wq/agent-os-releases/releases/download/v2026.11/Agent.OS.2026.11.dmg",
+  "notes": "Planning and tool selection now reason before they answer."
 }
